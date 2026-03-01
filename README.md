@@ -1,10 +1,5 @@
----
-title: NewsGuardAI
-emoji: 💻
-colorFrom: pink
-colorTo: blue
-sdk: docker
-pinned: false
----
+Already Hosted. Check - https://huggingface.co/spaces/chanuuddwad/NewsGuardAI
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Run localy, just navigate CMD in project folder and run "python app.py"
+
+Enjoy! 😊
