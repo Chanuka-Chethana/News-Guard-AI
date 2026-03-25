@@ -1,5 +1,10 @@
-Already Hosted. Check - https://chanuuddwad-newsguardaipro.hf.space
+---
+title: NewsGuardAI
+emoji: 💻
+colorFrom: pink
+colorTo: blue
+sdk: docker
+pinned: false
+---
 
-Run localy, just navigate CMD in project folder and run "python app.py"
-
-Enjoy! 😊
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
